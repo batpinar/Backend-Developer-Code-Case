@@ -1,0 +1,76 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains
+*.DotSettings.user
+
+# Backup & temporary files
+*~
+*.bak
+*.tmp
+*.temp
+*.log
+
+# NuGet packages
+*.nupkg
+# Uncomment if using NuGet package restore
+# packages/
+# Paket output
+packages/
+
+# Other
+*.dbmdl
+*.dbml
+*.pdb
+*.cache
+*.log
+
+# Publish results
+publish/
+
+# Docker
+*.container.cache
+
+# Windows image thumbnail cache
+Thumbs.db
+
+# Files built by Visual Studio
+*.dll
+*.exe
+*.app
+*.appx
+
+# Include environment files only if needed
+# .env
